@@ -1,0 +1,15 @@
+C:\SeleniumFlix\bin\Debug\SeleniumFlix.exe.config
+C:\SeleniumFlix\bin\Debug\SeleniumFlix.exe
+C:\SeleniumFlix\bin\Debug\SeleniumFlix.pdb
+C:\SeleniumFlix\bin\Debug\WebDriver.dll
+C:\SeleniumFlix\bin\Debug\WebDriver.Support.dll
+C:\SeleniumFlix\bin\Debug\WebDriver.xml
+C:\SeleniumFlix\bin\Debug\WebDriver.Support.xml
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.csprojAssemblyReference.cache
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.Properties.Resources.resources
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.csproj.GenerateResource.cache
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.csproj.CoreCompileInputs.cache
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.csproj.CopyComplete
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.exe
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.pdb
+C:\SeleniumFlix\obj\Debug\SeleniumFlix.Form1.resources
